@@ -59,7 +59,7 @@ git push
 ```
 Envia pro GitHub.
 
-# Baixar atualizações do seu projeto
+# Baixar atualizações do seu projeto no GitHub
 ```
 git pull
 ```
