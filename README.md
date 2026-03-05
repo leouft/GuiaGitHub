@@ -66,7 +66,7 @@ git pull
 Ele busca o que tiver de diferente do GitHub pro seu local (computador) e baixa tudo.
 
 
-# Mandando pro PC um repositório do GitHub (também serve pra pegar projeto dozotro)
+# Mandando pro PC um repositório do GitHub (também serve pra pegar projeto dos outros)
 ```
 Copie o link do seu repositório pronto (ou pegue o link de outro repositório que deseja fazer isso)
 ```
